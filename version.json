@@ -1,5 +1,5 @@
 {
-  "version": "1.10.04",
-  "url": "https://github.com/RaphaNinja10/academia-tbh-releases/releases/download/v1.10.04/AcademiaTBHTrainer.exe",
-  "notes": "1.00.20: scan de herois, Treino de Stage e catalogo consertados (StageManager resolvido por tipo, data manager 'bal', entrar fase via 'igc'). Inventario lido pelo PROPRIO cheat via proxy (nao precisa de perfil Steam publico) + coluna Origem (servidor/cliente) + moeda BRL/USD em Ajustes. Spawn Persistente: nova opcao 'Caixa -> Item' (item fixo por nivel de caixa) e captura agora pega GET e POST. Aviso quando o hook ja esta carregado (reinjecao nao recarrega - reinicie o jogo). Protecao da porta do proxy (mata mitmdump orfao)."
+  "version": "1.10.05",
+  "url": "https://github.com/RaphaNinja10/academia-tbh-releases/releases/download/v1.10.05/AcademiaTBHTrainer.exe",
+  "notes": "Nova aba GUIA com explicacoes de cada recurso (como spawnar, farmar, inventario, etc.), em PT/EN. Spawn de item corrigido na 1.00.20 (lookup por id via lista, antes dava 'ItemKey invalido'). Inclui tudo da 1.10.04: scan de herois, Treino de Stage e catalogo consertados; entrar na fase via 'igc'; inventario lido pelo proprio cheat via proxy + coluna Origem + moeda BRL/USD; opcao 'Caixa -> Item'; captura GET e POST; aviso de hook ja carregado; protecao da porta do proxy."
 }
