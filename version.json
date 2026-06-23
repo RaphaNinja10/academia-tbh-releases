@@ -1,5 +1,5 @@
 {
-  "version": "1.10.02",
-  "url": "https://github.com/RaphaNinja10/academia-tbh-releases/releases/download/v1.10.02/AcademiaTBHTrainer.exe",
-  "notes": "Taskbar Hero 1.00.19. Editor de save, Spawn Persistente, navegacao em sidebar, seletor de processo, DLC/Pets de volta, traducao completa."
+  "version": "1.10.03",
+  "url": "https://github.com/RaphaNinja10/academia-tbh-releases/releases/download/v1.10.03/AcademiaTBHTrainer.exe",
+  "notes": "Suporte ao Taskbar Hero 1.00.20 (ACTk, Ouro Infinito, DLC e Pets re-derivados). Spawn Persistente: instalacao do mitmproxy no log e indicador de certificado. Protecao do proxy do Windows contra perda de internet."
 }
