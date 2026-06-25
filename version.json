@@ -1,5 +1,5 @@
 {
-  "version": "1.10.05",
-  "url": "https://github.com/RaphaNinja10/academia-tbh-releases/releases/download/v1.10.05/AcademiaTBHTrainer.exe",
-  "notes": "Nova aba GUIA com explicacoes de cada recurso (como spawnar, farmar, inventario, etc.), em PT/EN. Spawn de item corrigido na 1.00.20 (lookup por id via lista, antes dava 'ItemKey invalido'). Inclui tudo da 1.10.04: scan de herois, Treino de Stage e catalogo consertados; entrar na fase via 'igc'; inventario lido pelo proprio cheat via proxy + coluna Origem + moeda BRL/USD; opcao 'Caixa -> Item'; captura GET e POST; aviso de hook ja carregado; protecao da porta do proxy."
+  "version": "1.11.01",
+  "url": "https://github.com/RaphaNinja10/academia-tbh-releases/releases/download/v1.11.01/AcademiaTBHTrainer.exe",
+  "notes": "Suporte ao Taskbar Hero 1.00.21 (reabertura do Mercado Steam). Tudo re-derivado para a nova build: ACTk, Ouro Infinito, DLC e Pets, e o caminho de stage/catalogo/spawn. O hook ficou mais resistente a updates (data manager e StageManager achados por estrutura, nao por nome ofuscado). Aviso no Inventario: Cosmic/Divine/Celestial estao temporariamente restritos de listar no mercado (Soulstones liberadas). Inclui a aba Guia e tudo das versoes anteriores."
 }
