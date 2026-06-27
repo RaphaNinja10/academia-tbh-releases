@@ -1,5 +1,5 @@
 {
-  "version": "1.11.01",
-  "url": "https://github.com/RaphaNinja10/academia-tbh-releases/releases/download/v1.11.01/AcademiaTBHTrainer.exe",
-  "notes": "Suporte ao Taskbar Hero 1.00.21 (reabertura do Mercado Steam). Tudo re-derivado para a nova build: ACTk, Ouro Infinito, DLC e Pets, e o caminho de stage/catalogo/spawn. O hook ficou mais resistente a updates (data manager e StageManager achados por estrutura, nao por nome ofuscado). Aviso no Inventario: Cosmic/Divine/Celestial estao temporariamente restritos de listar no mercado (Soulstones liberadas). Inclui a aba Guia e tudo das versoes anteriores."
+  "version": "1.11.03",
+  "url": "https://github.com/RaphaNinja10/academia-tbh-releases/releases/download/v1.11.03/AcademiaTBHTrainer.exe",
+  "notes": "Fix EXP on Kill & item spawn client-side. Novo: Cube XP Synthesis & Offline XP, Monitor Remoto."
 }
