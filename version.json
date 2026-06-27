@@ -1,5 +1,5 @@
 {
-  "version": "1.11.03",
-  "url": "https://github.com/RaphaNinja10/academia-tbh-releases/releases/download/v1.11.03/AcademiaTBHTrainer.exe",
-  "notes": "Fix EXP on Kill & item spawn client-side. Novo: Cube XP Synthesis & Offline XP, Monitor Remoto."
+  "version": "1.11.04",
+  "url": "https://github.com/RaphaNinja10/academia-tbh-releases/releases/download/v1.11.04/AcademiaTBHTrainer.exe",
+  "notes": "Fix Spawn Persistente (formato backend 1.00.21). Novo: botão Todas as Caixas, botão Instalar Python, Editor de Conquistas."
 }
